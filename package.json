@@ -1,0 +1,23 @@
+{
+  "name": "quoteninja",
+  "version": "1.0.0",
+  "description": "Randomly generates quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irmattg/quoteninja.git"
+  },
+  "author": "Irma Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irmattg/quoteninja/issues"
+  },
+  "homepage": "https://github.com/irmattg/quoteninja#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.3"
+  }
+}
